@@ -35,5 +35,5 @@ bisa dibaca apabila kita memasukan ID cerita yang sesuai.
   - UpdateDelete
   - User
   
-  **Terima Kasih :)
+  **Terima Kasih :)**
   
